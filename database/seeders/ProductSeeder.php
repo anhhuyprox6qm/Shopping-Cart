@@ -35,7 +35,7 @@ class ProductSeeder extends Seeder
             ],
             [
                 'id'=> 3,
-                    'name' => 'Áo 2',
+                'name' => 'Áo 2',
                 'price' => 10000,
 
                 'created_at' => Carbon::now(),
